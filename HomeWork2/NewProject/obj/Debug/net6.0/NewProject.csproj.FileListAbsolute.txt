@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\bin\Debug\net6.0\NewProject.exe
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\bin\Debug\net6.0\NewProject.deps.json
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\bin\Debug\net6.0\NewProject.runtimeconfig.json
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\bin\Debug\net6.0\NewProject.dll
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\bin\Debug\net6.0\ref\NewProject.dll
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\bin\Debug\net6.0\NewProject.pdb
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.AssemblyInfo.cs
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.dll
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\ref\NewProject.dll
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.pdb
+C:\Users\Максим\Desktop\C#\HomeWork2\NewProject\obj\Debug\net6.0\NewProject.genruntimeconfig.cache
